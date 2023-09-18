@@ -16,4 +16,6 @@ This app requires atleast 2 phones to function correctly.
 
 Otherwise scan a marker to reveal the next marker and open the next marker image from within the files on a computer screen.
 
+Markers can be found in the markers folder
+
 ![Landing Screen](Assets/Media/ARHome.png)
